@@ -25,7 +25,6 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-map.html
 <html>
    <head>
        <title>MAP APP</title>
@@ -145,6 +144,9 @@ dargha.html
            2)Bara Shaheed Darga Located in Ambedkar Nagar, Nel
        </font>
        </p>
+   </body>
+</html>
+
    </body>
 </html>
 
